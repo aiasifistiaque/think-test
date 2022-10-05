@@ -14,7 +14,7 @@ export default function Home() {
 			</Head>
 
 			<main className={styles.main}>
-				<Title title='Home'>Home Page</Title>
+				<Title title='Home'>Home Page 2</Title>
 
 				<Link href='/about'>
 					<div
